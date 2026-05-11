@@ -187,8 +187,9 @@ Here we can see the error :
 2. Commit and push the fix
 3. Watch the pipeline go green again
 4. **Take a screenshot** of the Actions tab showing at least one red ✗ and one green ✓ run
-
-
+^_^
+Here is the screenshot of the fixed version :
+![img_4.png](img_4.png)
 ---
 
 ### Task 6: Add Manual Trigger
